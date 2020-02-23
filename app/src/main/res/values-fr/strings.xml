@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Math Game!</string>
+    <string name="send">Envoyer</string>
+    <string name="start">Débuter</string>
+    <string name="lose">Vous avez perdu ! Recommencer ?</string>
+    <string name="retry">Recommencer</string>
+    <string name="attempt">Nombre de tentatives : x essai(s)</string>
+    <string name="attempt_1">Nombres de tentatives :</string>
+    <string name="attempt_2">essai(s)</string>
+    <string name="calcul">7 x 8 = </string>
+</resources>
